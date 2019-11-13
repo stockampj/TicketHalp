@@ -1,7 +1,6 @@
 {
   "name": "helpqueue",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src/**/**; exit 0",
@@ -14,6 +13,7 @@
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "react-router-dom": "^4.0.0",
     "styled-jsx": "^3.2.4"
   },
   "devDependencies": {
@@ -28,5 +28,15 @@
     "react-hot-loader": "^3.0.0-beta.7",
     "webpack": "^3.4.0",
     "webpack-dev-server": "^2.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmcshane10/Help-Ticket.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/mmcshane10/Help-Ticket/issues"
+  },
+  "homepage": "https://github.com/mmcshane10/Help-Ticket#readme",
+  "description": ""
 }
